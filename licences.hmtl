@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Auwal Salisu - Licenses &amp; Certifications</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f7f7f7;
+			color: #444;
+			padding: 20px;
+		}
+		
+		h1 {
+			font-size: 24px;
+			margin-top: 0;
+		}
+		
+		h2 {
+			font-size: 18px;
+			margin-top: 20px;
+		}
+		
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			margin-top: 20px;
+		}
+		
+		th, td {
+			padding: 10px;
+			border: 1px solid #ccc;
+			text-align: left;
+		}
+		
+		th {
+			background-color: #eee;
+		}
+		
+		.cert-id {
+			color: #666;
+			font-size: 12px;
+			margin-top: 5px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Auwal Salisu - Licenses &amp; Certifications</h1>
+	
+	<h2>Third Party Risk Management - SecurityScorecard</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>vg4ojy9soe65</td>
+		</tr>
+	</table>
+	
+	<h2>Offensive Hacking Unfolded- Become a Pro PenTester in 2021 - Udemy</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>UC-0d656dc5-1d64-4ce8-995a-3a9d119b6ade</td>
+		</tr>
+	</table>
+	
+	<h2>Power Point 2016- Advanced - DisasterReady</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>Jobber Man Soft-skills Certificate - Jobberman Nigeria</td>
+		</tr>
+	</table>
+	
+	<h2>Introduction to Cyber Security - Cisco</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td></td>
+		</tr>
+	</table>
+	
+	<h2>Introduction to Artificial Intelligence - Simplilearn</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>3947251</td>
+		</tr>
+	</table>
+	
+	<h2>Introduction to Cybercrime - Simplilearn</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>3958267</td>
+		</tr>
+	</table>
+	
+	<h2>Fortinet Network Security Expert (NSE) Level 1: Certified Associate - Fortinet</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td>OWgAkByDxO</td>
+		</tr>
+		<tr>
+			<th>Expiration</th>
+			<td>Nov 2024</td>
+		</tr>
+	</table>
+	
+	<h2>Ethical Hacking for Beginners - Simplilearn</h2>
+	<table>
+		<tr>
+			<th>Certification ID</th>
+			<td
